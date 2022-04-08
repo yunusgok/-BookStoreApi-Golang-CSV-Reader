@@ -1,4 +1,4 @@
-# HW2- Library- YUNUS EMRE GÖK
+# Library- YUNUS EMRE GÖK
 
 This project is a basic library application
 
